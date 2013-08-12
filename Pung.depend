@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1376285356 source:g:\videojuegos\4.- pong\main.cpp
+	<iostream>
+	<conio.h>
+	"game.h"
+
+1376285356 g:\videojuegos\4.- pong\game.h
+	<iostream>
+	<conio.h>
+	<ctime>
+	"gotoxy.h"
+	"ball.h"
+	"paddle.h"
+
+1376078815 g:\videojuegos\4.- pong\gotoxy.h
+	<windows.h>
+
+1376285356 g:\videojuegos\4.- pong\ball.h
+	<stdlib.h>
+	<time.h>
+
+1376285356 g:\videojuegos\4.- pong\paddle.h
+
